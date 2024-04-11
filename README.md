@@ -1,7 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 
-# Developed By : SANJAY M
-# Register No  : 212223230187
+## Developed By : SANJAY M
+## Register No  : 212223230187
 
 
 ## AIM 
